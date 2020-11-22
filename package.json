@@ -13,5 +13,6 @@
     "username-generator"
   ],
   "author": "Paras Patidar",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/patidarparas13/generate-username-from-email"
 }
